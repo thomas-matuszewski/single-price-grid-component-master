@@ -112,7 +112,7 @@ span {
     }
 }
 
-@media (max-width: 384px) {
+@media screen and (max-width: 420px) {
     body {
         margin-bottom: 0;
     }
